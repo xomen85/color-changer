@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  border: 3px black;
+}
+h4{
+  font-size: 30px;
+}
+.nav-center{
+  
+}
+.nav-links{
+  list-style-type:none;
+}
+li{
+  text-decoration: none;
+  font-size: 26px; 
+  float:right;
+}
+li a{
+ text-decoration: none;
+ padding:8px;
+}
+.btn{
+padding:15px 10px;
+font-size: 16px;
+}
+
